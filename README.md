@@ -1,6 +1,14 @@
 # 🏀bracket-brain
 Forecasting NCAA basketball tournament outcomes using machine learning models to support bracket predictions and sports analytics.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Brier Score Optimized](https://img.shields.io/badge/Optimized--for-Brier%20Score-yellowgreen?style=for-the-badge)
+![Metric Score](https://img.shields.io/badge/Best%20Score-0.10921-2ECC71?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Rank-53%20of%201727-brightgreen?style=for-the-badge)
+![Solo](https://img.shields.io/badge/Submission-Solo-orange?style=for-the-badge)
+
 ### **Project Duration**: Mar 17, 2025 - Apr 7, 2025
 
 ---

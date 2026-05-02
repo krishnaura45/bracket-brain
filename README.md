@@ -17,7 +17,7 @@
 
 The aim of this competition was **to predict the outcomes of all potential matchups in the 2025 NCAA Division I men’s and women’s basketball tournaments**. Each submission included predicted probabilities for every possible matchup that could occur in the tournament brackets. 
 
-Hosted on Kaggle as part of the annual **March Machine Learning Mania**, submissions were evaluated using the **Brier score**, which penalizes inaccurate probability predictions. Lower Brier scores indicate better predictions.
+Hosted on Kaggle as part of the annual **[March Machine Learning Mania](https://www.kaggle.com/competitions/march-machine-learning-mania-2025)**, submissions were evaluated using the **Brier score**, which penalizes inaccurate probability predictions. Lower Brier scores indicate better predictions.
 
 ---
 
@@ -56,7 +56,7 @@ Key steps followed:
 
 ---
 
-## 🔗 References
+## References
 
 - Kaggle Competition: [March Machine Learning Mania 2025](https://www.kaggle.com/competitions/march-machine-learning-mania-2025)
 - Dataset: [Competition Data](https://www.kaggle.com/competitions/march-machine-learning-mania-2025/data)
@@ -67,7 +67,7 @@ Key steps followed:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: Python
 - **Libraries**:
